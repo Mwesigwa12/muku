@@ -1,0 +1,17 @@
+.pin{
+    float: left;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 60px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    list-style: none;
+    text-decoration: none;
+    color: yellow;
+    box-shadow: peru;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-inline-start: 20px;
+}
